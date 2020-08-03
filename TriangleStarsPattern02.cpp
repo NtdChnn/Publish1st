@@ -7,7 +7,7 @@ int main()
 	{
 		for(i=1;i<=j;i++)
 		{
-			printf("* "); //print asterisk per layers to make triangle
+			printf("* "); //print stars per layers to make triangle
 		}
 		printf("\n");
 	}
